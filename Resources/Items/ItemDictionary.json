@@ -1,0 +1,9 @@
+{
+	"items":[
+		"Items/Weapons/WoodenSword.json",
+		"Items/Weapons/StoneSword.json",
+		"Items/Weapons/IronSword.json",
+		"Items/Weapons/DiamondSword.json",
+		"Items/Weapons/AdamantiumSword.json"
+	]
+}
